@@ -1,0 +1,5 @@
+com\example\websocketdemo\WebsocketDemoApplication.class
+com\example\websocketdemo\model\LocationBean.class
+com\example\websocketdemo\config\WebSocketConfig.class
+com\example\websocketdemo\controller\CommunicationController.class
+com\example\websocketdemo\config\WebSocketEventListener.class
